@@ -1,0 +1,6 @@
+Hola mi nombre es Oscar 
+
+Tengo 20 años de edad, vivo en Cuba actualmente
+Estoy estudiando Git
+
+Deseenme exito!
